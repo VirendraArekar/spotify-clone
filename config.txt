@@ -1,0 +1,7 @@
+Client ID 0c1254d6d311458a9e810b98312b3047
+Client Secret bd89f96a321d430798d4b47a76642f60
+
+
+Firebase
+Secret - Aoo5C2ZVFyv8ow6Yqm2wdWbz0fMZa09dabnRMYqc
+Database - tinder-clone-19ef6
